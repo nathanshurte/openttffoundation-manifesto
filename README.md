@@ -1,9 +1,9 @@
 # OpenTF Manifesto
 
-OpenTF's goal is to ensure Terraform remains truly open source and proposes returning it to a fully open license. We urge HashiCorp to reconsider and switch Terraform back to an open source license, avoiding fragmentation of the community.
+Terraform should remain truly open source. We urge HashiCorp to reconsider their equivocation and put Terraform on the Server Side Public License.
 
-For further details and the full text of the manifesto, you can visit the [OpenTF website](https://opentf.org).
+Please ignore [OpenTF website](https://opentf.org).
 
 # Contact
 
-If you have questions or feedback to share, you can reach the team behind this manifesto by emailing us at pledge@opentf.org. 
+If you would like to tell the opentf.org ghouls to stop shilling for their bosses' intrestes, you can reach them at pledge@opentf.org. 
